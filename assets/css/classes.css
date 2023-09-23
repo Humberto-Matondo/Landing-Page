@@ -8,7 +8,7 @@
 }
 
 .white-bg {
-    color: black;
+    color: var(--primary-color);
     background: var(--white-color);
 }
 
