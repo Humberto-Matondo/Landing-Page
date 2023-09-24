@@ -17,7 +17,7 @@
     margin: 0 auto;
     margin-left: 90px;
     margin-right: 90px;
-    padding: var(--gap);
+    padding: 8rem var(--gap);
 }
 
 .section {
@@ -32,6 +32,7 @@
     right: 0;
     width: 100%;
     border-bottom: 0.1rem solid var(--light-gray-color);
+    z-index: 1;
 }
 
 .menu-content {
