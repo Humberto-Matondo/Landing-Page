@@ -46,3 +46,9 @@
 .menu-spacing{
     height: 65px;
 }
+
+body .full-message{
+
+    width: 100%;
+    flex: 1 1 100%;
+}

@@ -43,12 +43,15 @@
     min-height: 100vh;
 
 }
+
 .grid-main-heading {
     margin-bottom: 1rem;
 }
-.grid-description{
+
+.grid-description {
     padding-bottom: 8rem;
 }
+
 .grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -56,14 +59,14 @@
     counter-reset: grid-counter;
 }
 
-.grid h3{
+.grid h3 {
     font-size: 3rem;
     padding-bottom: 2rem;
     padding-left: 5rem;
     position: relative;
 }
 
-.grid h3::before{
+.grid h3::before {
     counter-increment: grid-counter;
     content: counter(grid-counter);
     position: absolute;
@@ -74,7 +77,7 @@
     transform: rotate(5deg);
 }
 
-.gallery-img{
+.gallery-img {
     width: 100%;
     max-width: 36rem;
     max-height: 36rem;
@@ -93,14 +96,85 @@
 .gallery-img img:hover {
     width: 100%;
     height: 100%;
-    transform:translate(-3%,3%) scale(1.3) rotate(8deg);
+    transform: translate(-3%, 3%) scale(1.3) rotate(8deg);
 }
 
-.table-P,.table-h2{
+.table-P,
+.table-h2 {
     text-align: center;
     margin-top: 2rem;
 }
 
-.contact-form{
+.contact-form {
     grid-column: span 2;
+}
+
+.contact-form,
+.form-grid {
+    display: flex;
+    border: none;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: var(--gap);
+}
+
+.form-group {
+    flex: 1 1 320px;
+}
+
+.form-group label {
+    display: block;
+    color: var(--primay-color);
+    margin-bottom: 1rem;
+}
+
+.form-group input,
+.form-group textarea {
+    border: 0.5px solid #0A1128;
+    border-radius: 2px;
+    background-color: rgba(192, 192, 192, 0.299);
+    padding: 0.7rem 1rem;
+    width: 100%;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    box-shadow: 0 0 10px 5px#0A1128;
+}
+
+.form-group button {
+    border: 0.1rem solid #0A1128;
+    border-radius: 4px;
+    color: var(--white-color);
+    background: #0A1128;
+    padding: 1.5rem 5rem;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: all 300ms ease-in-out;
+}
+.form-group button:hover{
+    border: 0.1rem solid #0A1128;
+    border-radius: 4px;
+    color: #0A1128;
+    background: #96949445;
+}
+
+.form-grid legend{
+    font-style: italic;
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+}
+
+.footer{
+    text-align: center;
+    font-size: 1.6rem;
+
+}
+.footer a{
+    color: var(--light-gray-color);
+}
+
+.footer p{
+    margin: 0;
+    padding: 3rem;
 }
