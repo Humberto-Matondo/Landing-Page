@@ -95,3 +95,12 @@
     height: 100%;
     transform:translate(-3%,3%) scale(1.3) rotate(8deg);
 }
+
+.table-P,.table-h2{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.contact-form{
+    grid-column: span 2;
+}

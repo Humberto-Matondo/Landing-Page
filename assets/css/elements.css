@@ -56,6 +56,38 @@ h6 {
 a {
     text-decoration: none;
 }
-p{
+
+p {
     margin-bottom: 3rem;
+}
+
+.responsive-table{
+    overflow: hidden;
+    overflow-x: auto;
+}
+
+table {
+    min-width: 360px;
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table caption{
+    font-style: italic;
+    font-size: 1.6rem;
+    text-align: left;
+    margin-bottom: 1rem;
+}
+
+table td,
+table th {
+    white-space: nowrap;
+    padding: 1rem;
+    border: 0.1rem solid var(--light-gray-color);
+}
+
+table tfoot td,
+table th {
+    background: rgba(192, 192, 192, 0.504);
 }
