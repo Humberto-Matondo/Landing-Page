@@ -185,7 +185,7 @@
     padding: 3rem;
 }
 
-.back-to-top{
+.back-to-top {
     position: fixed;
     bottom: 2rem;
     right: 2rem;
@@ -238,17 +238,17 @@
 
     /*Esse codigo a baixo foi feito para criar a barra de navegacao para dispositivos moveis*/
 
-    .menu-content{
+    .menu-content {
         height: 100vh;
     }
 
-    .close-menu-label::after{
-        content:'≡';
+    .close-menu-label::after {
+        content: '≡';
         position: fixed;
         z-index: 2;
         top: 2rem;
         right: 2rem;
-        background:  #0A1128;
+        background: #0A1128;
         color: var(--white-color);
         font-size: 3rem;
         line-height: 3rem;
@@ -260,20 +260,24 @@
         border-radius: 3px;
         cursor: pointer;
     }
-    .close-menu:checked~.menu{
+
+    .close-menu:checked~.menu {
         display: block;
     }
-    .close-menu:checked~.close-menu-label::after{
+
+    .close-menu:checked~.close-menu-label::after {
         content: '\00D7';
     }
-    .menu-spacing{
+
+    .menu-spacing {
         display: none;
     }
+
     .intro-img {
         z-index: 0;
     }
 }
 
-.close-menu{
+.close-menu {
     display: none;
 }
