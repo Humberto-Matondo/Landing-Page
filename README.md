@@ -19,7 +19,7 @@ Click on the image below to access the Loading Page.
 2. <a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS3</a>
 
 
-<h3>Sites Usados:</h3>
+<h3>Websites Used:</h3>
 
 - To search fonts\Icons: <a href="https://fonts.google.com">Google Fonts</a>
 - To create SVG background: <a href="https://www.svgbackgrounds.com">SVG Backgrounds</a>
