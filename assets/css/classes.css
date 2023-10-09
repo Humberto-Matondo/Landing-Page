@@ -13,10 +13,10 @@
 }
 
 .main-content {
-    max-width: 120rem;
-    margin: 0 auto;
     margin-left: 90px;
     margin-right: 90px;
+    max-width: 120rem;
+    margin: 0 auto;
     padding: 8rem var(--gap);
 }
 
