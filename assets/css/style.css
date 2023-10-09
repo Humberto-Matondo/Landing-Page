@@ -14,6 +14,11 @@
     justify-content: center;
 }
 
+.responsive-table {
+    overflow: hidden;
+    overflow-x: auto;
+}
+
 .intro-img {
     z-index: 2;
 
@@ -202,6 +207,33 @@
 }
 
 @media (max-width:800px) {
+
+    body {
+        overflow: hidden;
+        overflow-y: auto;
+    }
+
+    .intro-text-content {
+        position: relative;
+        left: -25%;
+    }
+
+    .top3-content {
+        position: relative;
+        margin-left: -1%;
+        left: 10%;
+    }
+
+    .contact-form {
+        position: relative;
+        margin-left: -30%;
+        left: 10%;
+    }
+
+    .form-group input,
+    .form-group textarea {
+        width: 65%;
+    }
 
     .intro-content,
     .grid {
