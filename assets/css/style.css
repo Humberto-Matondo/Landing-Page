@@ -209,8 +209,8 @@
 @media (max-width:800px) {
 
     body {
-        overflow: hidden;
         overflow-y: auto;
+        overflow: hidden;
     }
 
     .intro-text-content {
@@ -268,7 +268,7 @@
         justify-content: center;
     }
 
-    /*Esse codigo a baixo foi feito para criar a barra de navegacao para dispositivos moveis*/
+    /*Esse codigo a baixo foi feito para criar a barra de navegacao para os dispositivos moveis*/
 
     .menu-content {
         height: 100vh;
