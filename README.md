@@ -12,7 +12,6 @@ Click on the image below to access the Landing Page.
 
 <a href="https://gorgeous-chimera-daa3d7.netlify.app/#"><img src="https://i.ibb.co/g95Bkkv/Captura-de-ecr-2023-09-26-071533.png" alt="Loading-Page-Capture" border="0"></a><br /><a target='_blank' href='https://gorgeous-chimera-daa3d7.netlify.app/#'></a><br />
 
-<i>obs: The Mobile version is still under development. </i>
 <h2>TOOLS ⚒️</h2>
 
 1. <a href="https://html.com">HTML5</a>
