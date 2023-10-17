@@ -10,7 +10,11 @@ This is an interactive landing page that provides visitors with a fascinating gl
 
 Click on the image below to access the Landing Page.
 
-<a href="https://gorgeous-chimera-daa3d7.netlify.app/#"><img src="https://i.ibb.co/g95Bkkv/Captura-de-ecr-2023-09-26-071533.png" alt="Loading-Page-Capture" border="0"></a><br /><a target='_blank' href='https://gorgeous-chimera-daa3d7.netlify.app/#'></a><br />
+<a target='_blank' href='https://astronaut-landing-page.netlify.app'>
+  <img target='_blank' src="https://i.ibb.co/g95Bkkv/Captura-de-ecr-2023-09-26-071533.png" alt="Loading-Page-Capture" border="0">
+</a>
+<br/>
+<a target='_blank' href=''></a><br />
 
 <h2>TOOLS ⚒️</h2>
 
