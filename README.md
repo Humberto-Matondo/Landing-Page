@@ -27,6 +27,6 @@ Click on the image below to access the Landing Page.
 - To search fonts\Icons: <a href="https://fonts.google.com">Google Fonts</a>
 - To create SVG background: <a href="https://www.svgbackgrounds.com">SVG Backgrounds</a>
 - To download SVG designs: <a href="https://undraw.co">Undraw</a>
-- Generate random images: <a href="https://awik.io/generate-random-images-unsplash-without-using-api/">Awik</a>
+- API Unsplash: <a href="https://awik.io/generate-random-images-unsplash-without-using-api/">Awik</a>
 
 
