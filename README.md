@@ -1,18 +1,13 @@
 <h1 align="center">LANDING PAGE - Curiosities about space and astronauts in orbit 🧑🏿‍🚀<h1>
 
-This is an interactive landing page that provides visitors with a fascinating glimpse into the lives of astronauts as they explore space. Here, you will find exciting trivia and inspiring images that showcase the unique experiences of astronauts in orbit.
-
-
-
-<h2>DEMONSTRATION🖼️</h2>
-
-Click on the image below to access the Landing Page.
 
 <a target='_blank' href='https://astronaut-landing-page.netlify.app'>
   <img target='_blank' src="https://i.ibb.co/g95Bkkv/Captura-de-ecr-2023-09-26-071533.png" alt="Loading-Page-Capture" border="0">
 </a>
 <br/>
 <a target='_blank' href=''></a><br />
+
+This is an interactive landing page that provides visitors with a fascinating glimpse into the lives of astronauts as they explore space. Here, you will find exciting trivia and inspiring images that showcase the unique experiences of astronauts in orbit.
 
 <h2>TOOLS ⚒️</h2>
 
